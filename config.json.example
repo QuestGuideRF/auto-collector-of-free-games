@@ -1,0 +1,25 @@
+{
+    "platforms": {
+        "epic_games": {
+            "enabled": true,
+            "email": "your_email@example.com",
+            "password": "your_password"
+        },
+        "steam": {
+            "enabled": false,
+            "username": "your_username",
+            "password": "your_password"
+        },
+        "gog": {
+            "enabled": false,
+            "email": "your_email@example.com",
+            "password": "your_password"
+        }
+    },
+    "settings": {
+        "headless": false,
+        "schedule_time": "10:00",
+        "notifications": true,
+        "browser": "chrome"
+    }
+}
